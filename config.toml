@@ -39,11 +39,6 @@ preserveTaxonomyNames = true
     url = "/tags/"
     weight = 4
 
-  [[menu.main]]
-    name = "关于"
-    url = "/about/"
-    weight = 5
-
 [params]
     since = 2020
     author = "努力逆熵的阿撒托斯"                           # Author's name
