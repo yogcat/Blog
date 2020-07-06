@@ -26,15 +26,15 @@ preserveTaxonomyNames = true
     url = "/books/"
     weight = 1
 
-  [[menu.main]]
-    name = "日志"
-    url = "/posts/"
-    weight = 2
+  # [[menu.main]]
+  #  name = "日志"
+  #  url = "/posts/"
+  #  weight = 2
 
-  [[menu.main]]
-    name = "分类"
-    url = "/categories/"
-    weight = 3
+  #[[menu.main]]
+  #  name = "分类"
+  #  url = "/categories/"
+  #  weight = 3
 
   [[menu.main]]
     name = "标签"
