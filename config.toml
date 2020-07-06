@@ -3,6 +3,8 @@ languageCode = "zh-CN"
 title = "普通小站惹"
 theme = "LeaveIt"
 
+hasCJKLanguage = true
+
 paginate = 12
 enableEmoji = true
 enableRobotsTXT = true
@@ -67,4 +69,3 @@ preserveTaxonomyNames = true
    # Telegram = "xxoo"
    # Dribbble = "xxoo"
    # Medium = "xxoo"
-
