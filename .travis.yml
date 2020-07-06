@@ -11,7 +11,7 @@ go:
 
 install:
   # 安装最新的hugo
-  - wget https://github.com/gohugoio/hugo/releases/download/v0.51/hugo_0.51_Linux-64bit.deb
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.73.0/hugo_extended_0.73.0_Linux-64bit.deb
   - sudo dpkg -i hugo*.deb
   # 安装主题
   - git clone https://github.com/liuzc/LeaveIt.git
@@ -36,7 +36,7 @@ after_script:
 env:
  global:
    # Github Pages
-   - GH_REF: https://github.com/yogcat/yogcat.github.io.git
+   - GH_REF: github.com/yogcat/yogcat.github.io.git
 
 deploy:
   provider: pages # 重要，指定这是一份github pages的部署配置
