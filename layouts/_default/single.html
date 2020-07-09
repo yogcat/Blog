@@ -30,6 +30,9 @@
         {{ if ge (len $images) 1}}
             {{ $.Scratch.Set "postHasImages" true }}
         {{ end }}
+        {{ if ( .Site.Params.toc | default true ) }}
+          {{ partial "toc.html" . }}
+	{{ end }}
 
         {{ with .Params.featured_image }}
           {{- $img := . -}}

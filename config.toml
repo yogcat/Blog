@@ -50,6 +50,9 @@ preserveTaxonomyNames = true
     home_mode = "" # post or other
 
     google_verification = ""
+
+    toc = true                # 是否开启目录
+    autoCollapseToc = true   # Auto expand and collapse toc
    
     description = "" # site description
     keywords = "" # site keywords
