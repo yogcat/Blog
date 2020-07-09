@@ -26,6 +26,11 @@ preserveTaxonomyNames = true
     url = "/books/"
     weight = 1
 
+  [[menu.main]]
+    name = "瞎写"
+    url = "/nonsense/"
+    weight = 2
+
   # [[menu.main]]
   #  name = "日志"
   #  url = "/posts/"
