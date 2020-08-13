@@ -10,12 +10,13 @@ featured_image:
 宏微观计量教科书，经济史，各个分支的书嗯看，详见手机备忘录
 ## 数学
 数学分析各种分析先一撸到底，中间插点代数、离散、拓扑之类的，看电子书比较多，已做文件夹，详见手机备忘录
-## 英语
+## 英语应用
 1. COCA单词至少背到两万
 2. 《新编英语语法教程(学生用书)(第6版)》章振邦 荐购
-3. 《新编高级英语语法》章振邦 荐购
-4. 有时间的话：norton english vol1&2 看pdf
-
+3. A Course in Phonetics，Peter Ladefoged等 看pdf 结合译本《语音学教程》（北京大学出版社）
+4. A Practical Introduction to Phonetics，J. C. Catford 看pdf
+5. 《新编高级英语语法》章振邦 荐购
+6. 有时间的话：norton english vol1&2 看pdf
 ## 历史
 1. 《中国古代简史》张帆（南308）K22/49=2
 2. 《中国近现代史》章开沅 荐购
