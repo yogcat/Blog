@@ -16,7 +16,8 @@ featured_image:
 3. A Course in Phonetics，Peter Ladefoged等 看pdf 结合译本《语音学教程》（北京大学出版社）
 4. A Practical Introduction to Phonetics，J. C. Catford 看pdf
 5. 《新编高级英语语法》章振邦 荐购
-6. 有时间的话：norton english vol1&2 看pdf
+6. 经济学英语论文，先看看jel、jep之类的，理论经典论文也看点
+7. 有时间的话：norton english vol1&2 看pdf
 ## 历史
 1. 《中国古代简史》张帆（南308）K22/49=2
 2. 《中国近现代史》章开沅 荐购
