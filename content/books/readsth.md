@@ -12,13 +12,14 @@ featured_image:
 数学分析各种分析先一撸到底，中间插点代数、离散、拓扑之类的，看电子书比较多，已做文件夹，详见手机备忘录
 ## 英语应用
 1. COCA单词至少背到两万
-2. 《新编英语词汇学教程》蔡增亮，田贵森 准备荐购，图书馆系统打不开搜不了书
-3. 《新编英语语法教程(学生用书)(第6版)》章振邦 荐购
-4. A Course in Phonetics，Peter Ladefoged等 看pdf 结合译本《语音学教程》（北京大学出版社）
-5. A Practical Introduction to Phonetics，J. C. Catford 看pdf
-6. 《新编高级英语语法》章振邦 荐购
-7. 经济学英语论文，先看看jel、jep之类的，理论经典论文也看点
-8. 有时间的话：norton english vol1&2 看pdf
+2. 《新编英语词汇学教程》蔡增亮，田贵森（北409-2层） H313/936
+3. 《新编英语语法教程(学生用书)(第6版)》章振邦 2017 荐购中
+4. A Course in Phonetics，Peter Ladefoged等（北409-2层）H01/23 
+5. 译本《语音学教程》（北京大学出版社）2018 荐购中
+6. A Practical Introduction to Phonetics，J. C. Catford 看pdf
+7. 《新编高级英语语法》章振邦（北409-2层） H314/27-2
+8. 经济学英语论文，先看看jel、jep之类的，理论经典论文也看点
+9. 有时间的话：norton english vol1&2 看pdf
 ## 历史
 1. 《中国古代简史》张帆（南308）K22/49=2
 2. 《中国近现代史》章开沅 荐购
