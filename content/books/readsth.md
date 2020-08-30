@@ -33,11 +33,12 @@ featured_image:
 ### 逻辑学
 准备直接看中科大出的组合数学那堆（汪芳庭的数学基础、数理逻辑），这些后面再看，第三本可以不看。
 1. 《逻辑学十五讲》陈波 已借
-2. 《符号逻辑讲义》徐明(南408)O141/58
-3. 《数理逻辑：证明及其限度》杨跃
-4. 《数理逻辑导引》冯琦
-5. 《First Order Modal Logic》M.Fitting, Richard
-6. 《Modal Logic》Patrick Blackburn
+2. 《逻辑基础》王路 2019 荐购中
+3. 《符号逻辑讲义》徐明(南408)O141/58
+4. 《数理逻辑：证明及其限度》杨跃
+5. 《数理逻辑导引》冯琦
+6. 《First Order Modal Logic》M.Fitting, Richard
+7. 《Modal Logic》Patrick Blackburn
 ### 哲学史
 1. 荐购中：《西方哲学史》邓晓芒/赵林
 2. 《新编中国哲学史》冯达文/郭齐勇
