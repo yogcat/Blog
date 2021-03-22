@@ -1,7 +1,7 @@
 ---
 title: "头铁人士如何考研"
 date: 2020-08-01T11:25:47+08:00
-draft: false
+draft: true
 tags: ['开工准备']
 featured_image:
 ---

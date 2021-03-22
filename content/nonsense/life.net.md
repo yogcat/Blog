@@ -1,7 +1,7 @@
 ---
 title: "一个龙鸣的网络生活"
 date: 2020-07-09T21:52:34+08:00
-draft: false
+draft: true
 tags:
  - 
 featured_image:

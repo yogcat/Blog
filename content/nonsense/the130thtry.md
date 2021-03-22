@@ -1,7 +1,7 @@
 ---
 title: "今天，做一个可持续发展的龙鸣"
 date: 2020-07-11T11:44:34+08:00
-draft: false
+draft: true
 tags:
  - 
 featured_image:
