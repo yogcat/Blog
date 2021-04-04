@@ -1,7 +1,7 @@
 ---
 title: "普通的抱怨"
 date: 2021-04-04T19:40:11+08:00
-draft: true
+draft: false
 tags:
  - 
 featured_image:
