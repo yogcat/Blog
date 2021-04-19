@@ -1,7 +1,7 @@
 ---
 title: "一点想法"
 date: 2020-07-16T17:28:56+08:00
-draft: true
+draft: false
 tags:
  - 
 featured_image:

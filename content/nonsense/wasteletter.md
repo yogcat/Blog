@@ -1,7 +1,7 @@
 ---
-title: "废弃信件"
+title: "废弃的信"
 date: 2021-03-29T15:52:30+08:00
-draft: true
+draft: false
 tags:
  - 
 featured_image:

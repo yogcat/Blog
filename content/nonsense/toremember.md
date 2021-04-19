@@ -1,7 +1,7 @@
 ---
 title: "村炮日记"
 date: 2021-03-31T21:37:05+08:00
-draft: true
+draft: false
 tags:
  - 
 featured_image:
