@@ -1,5 +1,5 @@
 ---
-title: "海明威时间"
+title: "不够海明威的海明威时间"
 date: 2021-04-04T13:38:48+08:00
 draft: false
 tags:
