@@ -36,11 +36,14 @@ preserveTaxonomyNames = true
   #  url = "/posts/"
   #  weight = 2
 
-  #[[menu.main]]
+  # [[menu.main]]
   #  name = "分类"
   #  url = "/categories/"
   #  weight = 3
-
+  [[menu.main]]
+    name = "专栏"
+    url = "/random/"
+    weight = 3
   [[menu.main]]
     name = "标签"
     url = "/tags/"
