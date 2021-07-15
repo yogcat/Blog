@@ -9,5 +9,3 @@ featured_image:
 
 
 
-
-
